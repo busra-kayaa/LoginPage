@@ -12,7 +12,9 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    margin: auto;
     padding: 25px;
+    gap: 20%;
 }
 .input-group {
     margin-top: 10%;
@@ -21,9 +23,6 @@ body {
 .button-group {
     align-items: center;
     font-size: 15px;
-}
-.subgroup {
- gap: 20px;
 }
 .footer {
     margin-top: 7%;

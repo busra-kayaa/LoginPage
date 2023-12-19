@@ -1,0 +1,13 @@
+body {
+    background-color:rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+}
+.login-from-container {
+    background-color: rgb(200, 206, 218);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}

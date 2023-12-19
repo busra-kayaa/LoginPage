@@ -11,21 +11,14 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: auto;
     text-align: center;
-    padding: 25px;
 }
 .input-group {
     margin-top: 10%;
     margin-bottom: 5%;
 }
 .button-group {
-    align-items: center;
-    font-size: 15px;
-}
-.subgroup {
- gap: 20px;
-}
-.footer {
-    margin-top: 7%;
-    font-size: 10px;
+    margin-left: 40%;
+
 }

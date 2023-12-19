@@ -12,6 +12,7 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    margin: auto;
     padding: 25px;
 }
 .input-group {
@@ -20,12 +21,8 @@ body {
 }
 .button-group {
     align-items: center;
-    font-size: 15px;
-}
-.subgroup {
- gap: 20px;
 }
 .footer {
-    margin-top: 7%;
+    margin-top: 5px;
     font-size: 10px;
 }
