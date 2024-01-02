@@ -51,7 +51,7 @@ body {
 .login-from-container {
     background-color: #ffffff;
     display: flex;
-    border-radius: 2%;
+    border-radius: 5%;
     flex-direction: column;
     align-items: center;
     text-align: center;
@@ -88,9 +88,9 @@ body {
 }
 
 .footer {
+    margin: 5px;
     display: flex;
-    flex-direction:raw;  
+    flex-direction:column;  
     font-size: 70%;
     font-style: italic;
-    gap: 53px;    
 }

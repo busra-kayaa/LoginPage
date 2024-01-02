@@ -92,5 +92,6 @@ body {
     flex-direction:raw;  
     font-size: 70%;
     font-style: italic;
-    gap: 53px;    
+    gap: 15px;
+    
 }
