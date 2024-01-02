@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(151, 230, 193);
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    font-family:'Lucida Sans';
+}
+
+.login-from-container {
+    background-color: rgb(111, 219, 165);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 25px;
+}
+.input-group {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.button-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+.subgroup {
+ gap: 20px;
+}
+.footer {
+    margin-top: 7%;
+    font-size: 10px;
+}
