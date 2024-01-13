@@ -164,12 +164,14 @@ body {
     text-decoration: underline;
 }
 /* Media queries section */
-  
+
+/* Medium devices */
+@media only screen  and (max-width: 768px) {
+
+}    
 /* Small devices*/
 @media only screen  and (max-width: 600px) {
-    .header-container{
-        margin-bottom: 30%;
-    }
+
     .login-from-container {
         width: 50%;
     }
@@ -178,7 +180,7 @@ body {
         grid-template-columns: 1fr max-content;
         column-gap: .55rem;
         align-items: center;
-        margin-bottom: 8%;
+        margin-bottom: 10%;
     }
     .input-text {
         display: flex;
