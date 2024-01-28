@@ -93,7 +93,7 @@ body {
     flex-direction: column;
     width: 230px;
     height: 100%;
-    border-radius: 1%;
+    border-radius: 3px;
 }
 
 .login-check, 
@@ -168,7 +168,7 @@ body {
 /* Small devices*/
 @media only screen  and (max-width: 600px) {
     .header-container{
-        margin-bottom: 120px;
+        margin-bottom: 100px;
     }
     .login-from-container {
         width: 50%;
